@@ -1,4 +1,4 @@
-// feature 1
+// delete feature
 import React from "react";
 
 const App = () => {
